@@ -81,7 +81,7 @@ class Employeesalary{
 	}
 }
 public class EmployeeBuilder {
-	System.out.println("Welcome to Employee Wage Computation");
+	System.out.println("Welcome to Employee Wage Computation Program");
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter Company name");
 	String name=sc.next();
